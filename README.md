@@ -62,7 +62,7 @@ After extraction, you will find all the necessary files ready to use in the appl
 5. **View History**: You can view the history of past inputs and their predictions by clicking the **View History** button.
 
 ### Running the Python Script
-If you prefer to run the app from source, you can do so by running the `script.py` file.
+If you prefer to run the app from source, you can do so by running the `nwp.py` file.
 1. Install Python 3.x from [python.org](https://www.python.org/downloads/).
 2. Install required dependencies:
    ```bash
