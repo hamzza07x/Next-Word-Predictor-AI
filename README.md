@@ -1,4 +1,4 @@
-# Next Word Predictor
+### Muhammad Hamza - Next Word Predictor
 
 A simple Tkinter-based Python application for predicting the next word in a sentence. The app allows users to log in, enter text, and get suggestions for the next words based on previous input.
 
@@ -7,6 +7,50 @@ A simple Tkinter-based Python application for predicting the next word in a sent
 - **Next Word Prediction**: Based on the user's input, the app predicts the next word using pre-defined suggestions.
 - **History**: Keeps track of past user inputs and their predictions.
 - **GUI**: A simple and intuitive graphical user interface using Tkinter.
+
+## Files Included
+- `NextWordPredictor.exe`: Executable file for the application.
+- `script.py`: Python source code for the application.
+- `predictions.txt`: File containing word suggestions.
+- `users.txt`: File storing registered user data.
+- `history.txt`: File containing the history of user inputs and predictions.
+- `videos.zip`: Contains video files related to the project.
+- `images.zip`: Contains image files used in the project.
+- `icons.zip`: Contains icon files for the application.
+- `dist.zip`: Contains distribution files for the project.
+- `build.zip`: Contains build files for the project.
+- `README.md`: This file.
+- `README.txt`: A guide for users who want to use the application.
+
+## How to Extract ZIP Files
+If you want to access the contents of the ZIP files, follow these steps:
+
+### Download all ZIP files:
+- `videos.zip`
+- `images.zip`
+- `icons.zip`
+- `dist.zip`
+- `build.zip`
+
+### Extract the ZIP files:
+1. Download each ZIP file to your local machine.
+2. Extract all the files into the same directory where the `.exe` or Python script is located.
+   - On Windows, right-click each ZIP file and select **Extract All...**, then choose the same directory.
+   - On macOS or Linux, double-click the ZIP file to extract it, or use the command line:
+     ```bash
+     unzip videos.zip
+     unzip images.zip
+     unzip icons.zip
+     unzip dist.zip
+     unzip build.zip
+     ```
+
+After extraction, you will find all the necessary files ready to use in the application.
+
+## Requirements
+- **Python 3.x** (for running the Python script version)
+- **Tkinter** (usually included with Python)
+- A text editor for modifying `predictions.txt` and `users.txt`
 
 ## How to Use
 
