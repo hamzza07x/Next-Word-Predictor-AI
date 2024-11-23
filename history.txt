@@ -1,0 +1,12 @@
+Input: car
+Predictions: is, fast, reliable, stylish.
+
+Input: teacher
+Predictions: is, inspiring, knowledgeable, patient.
+
+Input: car
+Predictions: is, fast, reliable, stylish.
+
+Input: I
+Predictions: am, a, problem, solution, event, day, night.
+
