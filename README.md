@@ -10,7 +10,7 @@ A simple Tkinter-based Python application for predicting the next word in a sent
 
 ## Files Included
 - `NextWordPredictor.exe`: Executable file for the application.
-- `script.py`: Python source code for the application.
+- `nwp.py`: Python source code for the application.
 - `predictions.txt`: File containing word suggestions.
 - `users.txt`: File storing registered user data.
 - `history.txt`: File containing the history of user inputs and predictions.
