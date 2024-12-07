@@ -89,6 +89,6 @@ LICENSE
 This project is licensed under the MIT License.
 
 ---------------------------------------------------
-AUTHOR
+AUTHOR: Muhammad Hamza 
 ---------------------------------------------------
 Developed by Muhammad Hamza
